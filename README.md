@@ -1,2 +1,2 @@
 # Github_test
-for testing purpose
+for testing the fuctionalites of Github
